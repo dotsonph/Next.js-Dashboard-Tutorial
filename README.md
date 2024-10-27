@@ -1,2 +1,5 @@
-# Next.js-Dashboard-Tutorial
-Following a Next.js tutorial on creating a full-stack dashboard with a multipaged, interactive UI using a backend database
+## Next.js App Router Course - Starter
+
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
